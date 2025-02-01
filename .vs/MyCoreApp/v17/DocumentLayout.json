@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16479\\Documents\\MyCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\16479\\documents\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1663F200-721A-4452-925A-CA4F401AF6F7}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\.gitignore",
+              "RelativeDocumentMoniker": "MyCoreApp\\.gitignore",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\.gitignore",
+              "RelativeToolTip": "MyCoreApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T00:30:25.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T00:20:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T23:58:28.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:58:30.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyCoreApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\appsettings.Development.json",
+              "RelativeToolTip": "MyCoreApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T23:56:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:21:19.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\16479\\Documents\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T17:20:12.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
